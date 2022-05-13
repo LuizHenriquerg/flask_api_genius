@@ -27,7 +27,7 @@ flask run
 ```
 
 ### Como utilizar/consumir
-- Existe apenas uma rotae a mesma utiliza o métoodo POST. A seguir um exemplo da rota:
+- Existe apenas uma rota e a mesma utiliza o método POST. A seguir um exemplo da rota:
 ``` sh
 http://127.0.0.1:5000/api/v1/captura/artista
 ```
