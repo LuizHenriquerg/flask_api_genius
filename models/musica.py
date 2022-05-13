@@ -1,10 +1,9 @@
-from flask import jsonify
-import requests
-from utils.database import Dynamo
-import redis
 import os
 import json 
+import redis
+import requests
 from uuid import uuid4
+from utils.database import Dynamo
 
 class Musica:
     def __init__(self):
